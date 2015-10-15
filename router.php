@@ -1,0 +1,1 @@
+<?php return explode('/', trim($_SERVER['QUERY_STRING'], '/'));

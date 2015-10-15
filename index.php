@@ -1,0 +1,1 @@
+<?php $r = require 'router.php'; var_dump($r);
